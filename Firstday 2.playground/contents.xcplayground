@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='2'/>
+        <page name='3'/>
+        <page name='1'/>
+        <page name='4'/>
+        <page name='5'/>
+        <page name='6'/>
+        <page name='7'/>
+        <page name='9'/>
+        <page name='8'/>
+        <page name='10'/>
+        <page name='11'/>
+        <page name='12'/>
+        <page name='13'/>
+        <page name='TP a revoir'/>
+        <page name='error a revoir'/>
+        <page name='custom subscripts a revoir'/>
+        <page name='Optionls'/>
+        <page name='14'/>
+        <page name='15'/>
+    </pages>
+</playground>
